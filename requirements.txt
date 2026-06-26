@@ -1,0 +1,9 @@
+gymnasium
+numpy
+pygame
+pyyaml>=5.3.1
+setproctitle
+supersuit
+tensorboard>=2.2.1
+tensorboardX
+torch>=1.9.0
